@@ -34,5 +34,7 @@ char alpha = 'A';
 printf("Character %c has code %d.\n",alpha,alpha);
 return(0);
 
+// If they can’t tax it , You can’t sell it
+
 
 }
