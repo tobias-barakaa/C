@@ -16,7 +16,7 @@ exit(1);
 srand( (unsigned)time(NULL) );
 for ( i=0; i < ARR_LEN; ++i )
 pNumbers[i] = rand() % 10000;
-// Initialize the
+// Initialize
 // random number generator.
 // Store some random numbers.
 printf("\n%d random numbers between 0 and 9999:\n", ARR_LEN );
